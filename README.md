@@ -11,7 +11,7 @@ There are two transports provided:
 
 - **Serial** - for use with UART USB converters,<br/>
   <img src="docs/uart.jpg" width="150" />
-- **BLE** - for use with the original Bluetooth Low Energy module to the BMS<br/>
+- **BLE** - for use with the original Bluetooth Low Energy module supplied with the BMS<br/>
   <img src="docs/ble1.jpg" width="150" />
   <img src="docs/ble2.jpg" width="150" />
 
